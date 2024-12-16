@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+}
+
+.table-header {
+
+    /*border: green solid 1px;*/
+    background-color: rgb(180, 180, 180);
+}
+
+.table_month {
+
+    height: 30px;
+    /*border: red solid 1px;*/
+    background-color: rgb(200, 200, 200)
+}
+
+.table_expected_actual {
+    min-width: 100px;
+    height: 20px;
+
+    /*border: blue solid 1px;*/
+    background-color: rgb(230, 230, 230);
+}
+
+
+
+.table_client_col {
+    text-align: center;
+    height: 20px;
+    background-color: rgb(239, 247, 255);
+
+}
+
+
+
+.table_employee_col {
+    text-align: center;
+    height: 20px;
+    background-color: rgb(255, 250, 239);
+
+}
+
+.table_expense_col {
+    text-align: center;
+    height: 20px;
+    background-color: rgb(228, 255, 231);
+
+}
